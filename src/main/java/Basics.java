@@ -29,5 +29,7 @@ public class Basics {
         boolean isZeshan = myName == "Zeshan";
 
         System.out.println(isOver18 || isZeshan);
+
+        System.out.println(0.1 + 0.2);
     }
 }
